@@ -1,8 +1,6 @@
 import java.util.*;
 import java.util.Scanner;
 
- // Check Examples
-
  // Compiler version JDK 11.0.2
 
  class Dcoder
