@@ -1,5 +1,4 @@
 <?php
-	 // Check Examples
 
  //php 7.3.0
  	$angka=1;
